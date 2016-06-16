@@ -20,7 +20,7 @@ public class FlightBookingTest extends BaseTest{
 	private String expected = "Your itinerary has been booked!";
 	private String actual = "";
 	
-	
+	//Add a comment to see in the central repo
 	
 	@Test
 	public void bookTicket() {
